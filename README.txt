@@ -1,1 +1,1 @@
-An project i worked on while studying crash course on python.
+A project i worked on while studying crash course on python.
